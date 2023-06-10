@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
 import 'package:flutter/services.dart';
-import 'package:flutter_vpn/screens/change_language.dart';
-import 'package:flutter_vpn/screens/server_location.dart';
+import 'package:flutter/screens/change_language.dart';
+import 'package:flutter/screens/server_location.dart';
 
 const kBgColor = Color(0xff246CE2);
 
