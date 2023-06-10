@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_vpn/screens/home_screen.dart';
+import 'package:flutter/screens/home_screen.dart';
 
 const kColorBg = Color(0xffE6E7F0);
 
