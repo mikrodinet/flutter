@@ -1,4 +1,4 @@
-# VPN App - Flutter UI
+# Flutter UI
 
 <p align="center">
 
@@ -10,7 +10,7 @@
 
 </p>
 
-This project is an implementation of a Design i found on [dribbble.com](https://dribbble.com/shots/18688045-VPN-App) by [Umar Aji Pratama](https://dribbble.com/umarajipratama)
+This project is an implementation of a Design i found on [MIKRODINET WEBSITE](https://www.mikrodinet.eu.org) by [@MIKRODINET]([https://dribbble.com/umarajipratama](https://www.mikrodinet.eu.org))
 
 ## ❤️ Found this project useful?
 If you found this project useful, then please consider giving it a ⭐️ on Github and sharing it with your friends via social media.
@@ -31,7 +31,7 @@ cd folder/to/clone-into/
 ```
 
 ```
-git clone https://github.com/madeeldev/flutter-vpn.git
+git clone https://github.com/mikrodinet/flutter.git
 ```
 
 Then
@@ -93,12 +93,9 @@ What things you need to run the app
 
 ## Author 😊
 
-**Adeel Safdar**
+- @Author : [MIKRODINET](https://www.mikrodinet.eu.org)
+- URL : [https://www.mikrodinet.eu.org](https://www.mikrodinet.eu.org)
+- github : [https://github.com/mikrodinet/flutter](https://github.com/mikrodinet/flutter)
 
-- [**Linkedin**](https://www.linkedin.com/in/madeeldev/)
 
-## Inspiration
 
-**Umar Aji Pratama**
-
-- [**https://dribbble.com/umarajipratama**](https://dribbble.com/shots/18688045-VPN-App)
