@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_vpn/screens/splash_screen.dart';
+import 'package:flutter/screens/splash_screen.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
