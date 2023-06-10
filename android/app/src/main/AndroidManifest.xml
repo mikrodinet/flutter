@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_vpn">
+    package="eu.org.mikrodinet.app.flutter">
    <application
-        android:label="flutter_vpn"
+        android:label="flutter"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -19,7 +19,20 @@
             <meta-data
               android:name="io.flutter.embedding.android.NormalTheme"
               android:resource="@style/NormalTheme"
-              />
+              /><!-- Bypass APPLICATION_ID check for WebView API for Ads -->
+  <meta-data
+      android:name="com.google.android.gms.ads.INTEGRATION_MANAGER"
+      android:value="webview"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="8487000" />
+<meta-data android:name="eu.org.mikrodinet" android:value="ca-app-pub-6827901881006590~1120387899" />
+<meta-data android:name="eu.org.mikrodinet.webview" android:value="ca-app-pub-6827901881006590~1120387899" />
+<meta-data android:name="com.mikrodinet.app" android:value="ca-app-pub-6827901881006590~1120387899" />
+<meta-data android:name="eu.org.mikrodinet.app" android:value="ca-app-pub-6827901881006590~5169075701" />
+<meta-data android:name="admob" pub="6827901881006590" />
+<meta-data   android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6827901881006590~1120387899"/>
+    <meta-data   android:name="com.google.android.gms.ads.APPLICATION_ID"
+    android:value="ca-app-pub-6827901881006590~5169075701"/>
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
