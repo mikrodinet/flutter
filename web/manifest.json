@@ -1,6 +1,6 @@
 {
-    "name": "flutter_vpn",
-    "short_name": "flutter_vpn",
+    "name": "flutter",
+    "short_name": "flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
